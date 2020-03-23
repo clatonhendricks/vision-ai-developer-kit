@@ -25,7 +25,7 @@ You can use regular `git clone --recursive https://github.com/microsoft/vision-a
 
 **Important** update _jupyter_ in the Notebook VM: _(this is a temporary step)_
 
-`pip install –upgrade notebook`
+`pip install -–upgrade notebook`
 
 `sudo -i systemctl restart jupyter`
 
